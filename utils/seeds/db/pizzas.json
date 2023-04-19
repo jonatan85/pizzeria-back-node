@@ -1,0 +1,29 @@
+[
+  {
+    "name": "Barbacoa",
+    "mass": "fina",
+    "size": "familiar",
+    "dip": "barbacoa",
+    "ingredientes": "champiñon",
+    "price": 22,
+    "account": 1
+  },
+  {
+    "name": "Cuatro Quesos",
+    "masa": "fina",
+    "tamaño": "familiar",
+    "salsa": "barbacoa",
+    "ingredientes": "champiñon",
+    "price": 22,
+    "account": 1
+  },
+  {
+    "name": "Especial de la casa",
+    "masa": "fina",
+    "tamaño": "familiar",
+    "salsa": "barbacoa",
+    "ingredientes": "champiñon",
+    "price": 22,
+    "account": 1
+  }
+]
